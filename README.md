@@ -2,7 +2,7 @@
 👀 I’m interested in software development, and contributing to open-source projects.
 🌱 I’m currently learning new programming languages, deepening my knowledge of web, and exploring the latest trends in technology.
 💞️ I’m looking to collaborate on exciting open-source projects, connect with fellow developers and explore opportunities to contribute to innovative solutions.
-  PortFolio: https://drive.google.com/file/d/17ozQcqPm9c75RULNhaRqVDn8OyxOPloO/view?usp=sharing
+  PortFolio: https://drive.google.com/file/d/1px7VyE59PqiklxWpg5VTGStFIq7nO7y5/view?usp=sharing
 
 
 <!---
